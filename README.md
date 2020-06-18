@@ -3,11 +3,11 @@ A machine to accurately dispense alcoholic and non-alcoholic drinks.
 
 ## Project Overview
 
-How many times have you gone to an event where the bartender made bad drinks? There are a lot of drinks going to waste due to this.
+How many times have you gone to an event where the bartender made bad drinks? There are a lot of drinks going to waste due to this. This machine will give you the same drink, every time. The machine holds 8 stock bottles in a rear cabinet. When you open the cabinet, lights automatically turn on this way you don't waste power when the cabinet is closed. There is a 7in touchscreen display included on the machine. When you turn it on, it will automatically load the executable. There are four main buttons that pop up on the screen. "Make a Drink", "Stock Up", "Menu", and "Clean". Start by placing the drinks in the rear cabinet and placing the tubing inside the drinks. On the display, you press "Stock Up" and enter which bottles you placed in the back using a layout of the machine to distinguish the location. After loading the drinks, you can select "Make A Drink". You will now have a list of drinks that can be made with the bottles you have just stocked. Even you have 1000 drinks in the menu, you will only be able to see what can be made with the current stock. Click on the item you want to make and it will start dispensing as well as light LEDs for a cool effect. A tube manifold is used so the user can see the liquid flowing throught the tubes. The "Menu" button allows you to view, edit, create, and remove recipes and menu items from the Menu. Finally, the "Clean" button allows you to quickly flush the system or fully clean the system with water.
 
 ## Project Goals
 
-* Team of 3 people.
+* Team of 2 people.
 * Needs to be universal.
 * Navigate the user from Makerspace are to the cafeteria without hitting obstructions.
 * Buy pizza slice in the cafeteria.
@@ -19,29 +19,24 @@ How many times have you gone to an event where the bartender made bad drinks? Th
 * Teammates are not allowed to help the person navigate.
 * No direct tactile feedback (you can use a stick, but cannot feel with a stick, placing a sensor on it is fine).
 
-## Gallery
-
-Soldering                  | Construction               |  Microcontroller Setup
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Soldering.jpg)  | ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Construction.jpg)  |  ![](https://github.com/dannyjanani/BlindSightPros/blob/master/Gallery/Microcontroller%20setup.jpg)
-
 ## Materials Used
 
-* 3x [HC-SR04 Ultrasonic Sensors](https://www.adafruit.com/product/3942)
-* 1x [GP2Y0A21TK0F IR Sensor](https://www.adafruit.com/product/164)
-* 1x [Stackable Proto Shield](https://www.adafruit.com/product/2077)
-* 5x [Screw Terminal Blocks](https://www.walmart.com/ip/20PCS-300V-10A-3-50mm-Pitch-2P-Male-PCB-Screw-Terminal-Block-Connector-Green/871518443?wmlspartner=wlpa&selectedSellerId=571&adid=22222222227155079247&wl0=&wl1=g&wl2=c&wl3=266340381064&wl4=aud-430887228898:pla-439086344342&wl5=9004364&wl6=&wl7=1023239&wl8=&wl9=pla&wl10=111838760&wl11=online&wl12=871518443&veh=sem)
+* 2x [Magnetic Contact Switch](https://www.amazon.com/Gufastore-Surface-Magnetic-Security-Adhesive/dp/B07F314V3Z/ref=sr_1_5?keywords=gufastore&qid=1571533230&sr=8-5)
+* 1x [Switching Power Supply](https://www.amazon.com/gp/product/B00GFIHE0U/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+* 1x [Step-Down Voltage Regulator](https://www.amazon.com/gp/product/B078XQ5MWR/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+* 1x [Half-Size Breadboard](https://www.adafruit.com/product/64)
+* 1x [Raspberry Pi 3 Model B+](https://www.adafruit.com/product/3775)
+* 1x [7in Display](https://www.amazon.com/gp/product/B0153R2A9I/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+* 1x [LED Lights](https://www.amazon.com/gp/product/B0718XZ8GG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+* 1x [8-Channel Relay](https://www.amazon.com/gp/product/B00KTELP3I/ref=ppx_yo_dt_b_asin_title_o06_s03?ie=UTF8&psc=1)
+* 8x [Peristaltic Pumps](https://www.ebay.com/itm/Peristaltic-dosing-Pump-Tygon-LFL-6mm-ID-tube-and-can-deliver-500ml-min-DC12V/161666772861?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)
+* 1x [Jumper Cables](https://www.adafruit.com/product/759)
+* 1x [Silicon Tubing](https://www.amazon.com/gp/product/B01IB9FI2Q/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+* 1x [Stainless Steel Funnel](https://www.amazon.com/gp/product/B01NH53RBH/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+* 1x2 Wooden Frame
+* Foam Walls
+* Spray Paint
 * Unlimited Maker space resources (3d printing, laser cutting, etc.)
-* $50 Budget per team used for:
-  * 2x [Adafruit METRO 328](https://www.adafruit.com/product/2488)
-  * 2x [Vibrating Mini Motor Disk](https://www.adafruit.com/product/1201)
-  * 1x [Piezo Buzzer](https://www.adafruit.com/product/160)
-  * 1x [Accelerometer](https://www.adafruit.com/product/1120)
-  * 1x [FSR](https://www.adafruit.com/product/166) (Force Sensitive Resistor)
-  * 1x [Jumper Cables](https://www.adafruit.com/product/759)
-  * 1x [Breadboard](https://www.adafruit.com/product/64)
-  * 1x Pair of gloves
-  * 1x Rope
 
 ## Skills Used
 
@@ -49,9 +44,13 @@ Soldering                  | Construction               |  Microcontroller Setup
   * Laser Cutting
   * 3D Printing
   * Soldering
+  * Wood Work
+  * 3D Modelling
 
 * Software:
-  * C
-  * Arduino IDE
+  * Python
+  * Thonny Text Editor
+  * Linux
   * SolidWorks
+  * Fusion360
   * Ultimaker Cura
