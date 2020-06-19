@@ -3,21 +3,21 @@ A machine to accurately dispense alcoholic and non-alcoholic drinks.
 
 ## Project Overview
 
-How many times have you gone to an event where the bartender made bad drinks? There are a lot of drinks going to waste due to this. This machine will give you the same drink, every time. The machine holds 8 stock bottles in a rear cabinet. When you open the cabinet, lights automatically turn on this way you don't waste power when the cabinet is closed. There is a 7in touchscreen display included on the machine. When you turn it on, it will automatically load the executable. There are four main buttons that pop up on the screen. "Make a Drink", "Stock Up", "Menu", and "Clean". Start by placing the drinks in the rear cabinet and placing the tubing inside the drinks. On the display, you press "Stock Up" and enter which bottles you placed in the back using a layout of the machine to distinguish the location. After loading the drinks, you can select "Make A Drink". You will now have a list of drinks that can be made with the bottles you have just stocked. Even you have 1000 drinks in the menu, you will only be able to see what can be made with the current stock. Click on the item you want to make and it will start dispensing as well as light LEDs for a cool effect. A tube manifold is used so the user can see the liquid flowing throught the tubes. The "Menu" button allows you to view, edit, create, and remove recipes and menu items from the Menu. Finally, the "Clean" button allows you to quickly flush the system or fully clean the system with water.
+How many times have you gone to an event where the bartender made bad drinks? There are a lot of drinks going to waste due to this. This machine will give you the same drink, every time. The machine holds 8 stock bottles in a rear cabinet. When you open the cabinet, lights automatically turn on this way you don't waste power when the cabinet is closed. There is a 7in touchscreen display included on the machine. When you turn it on, it will automatically load the program. There are four main buttons that pop up on the screen. "Make a Drink", "Stock Up", "Menu", and "Clean". Start by placing the drinks in the rear cabinet and placing the tubing inside the drinks. On the display, you press "Stock Up" and enter which bottles you placed in the back using a layout of the machine to distinguish the location. After loading the drinks, you can select "Make A Drink". You will now have a list of drinks that can be made with the bottles you have just stocked. Even you have 1000 drinks in the menu, you will only be able to see what can be made with the current stock. Click on the item you want to make and it will start dispensing as well as light LEDs for a cool effect. A tube manifold is used so the user can see the liquid flowing throught the tubes. The "Menu" button allows you to view, edit, create, and remove recipes and menu items from the Menu. Finally, the "Clean" button allows you to quickly flush the system or fully clean the system with water.
 
 ## Project Goals
 
 * Team of 2 people.
-* Needs to be universal.
-* Navigate the user from Makerspace are to the cafeteria without hitting obstructions.
-* Buy pizza slice in the cafeteria.
-* Give user feedback to know where the obstuctions are and which direction they should go.
-* Allow user to have both hands free for holding things.
-* Ability to replace and enhance the "walking stick".
-* Develop electronic/embedded system that would help complete the task.
-* The user must be blindfolded the entire time, no visual feedback allowed.
-* Teammates are not allowed to help the person navigate.
-* No direct tactile feedback (you can use a stick, but cannot feel with a stick, placing a sensor on it is fine).
+* Can hold up to 8 Bottles.
+* Accuracy.
+* Working Prototype.
+* Food Grade Materials.
+* Lights are off when cabinet is closed, on when it is open.
+* Touchscreen display for user convenience.
+* The "Make a Drink" button will only display drinks that can be made with current stock.
+* The user will be able to see how much is left in the bottles from the display.
+* Users can view, edit, create and delete recipes from the display.
+* Users can clean the system by choosing quick clean, full clean which flushes the system.
 
 ## Materials Used
 
