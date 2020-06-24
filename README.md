@@ -49,7 +49,7 @@ How many times have you gone to an event where the bartender made bad drinks? Th
 
 * Software:
   * Python
-  * Thonny Text Editor
+  * Thonny Python IDE
   * Linux
   * SolidWorks
   * Fusion360
