@@ -31,15 +31,15 @@ GUI Design
 
 Frame Build                | Pump Mount               
 :-------------------------:|:-------------------------:
-[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Frame-Build-Thumbnail)](https://vimeo.com/460352991) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Pump-Mount-Thumbnail)](https://vimeo.com/460353003)
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Frame-Build-Thumbnail.png)](https://vimeo.com/460352991) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Pump-Mount-Thumbnail.png)](https://vimeo.com/460353003)
 
 Pump Wiring                | Test Dispense               
 :-------------------------:|:-------------------------:
-[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Pump-Wiring-Thumbnail)](https://vimeo.com/460353040) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Test-Dispense-Thumbnail)](https://vimeo.com/460353052)
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Pump-Wiring-Thumbnail.png)](https://vimeo.com/460353040) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Test-Dispense-Thumbnail.png)](https://vimeo.com/460353052)
 
 Design                     | Cupholder              
 :-------------------------:|:-------------------------:
-[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Design-Thumbnail)](https://vimeo.com/460357766) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Cupholder-Thumbnail)](https://vimeo.com/460357890)
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Design-Thumbnail.png)](https://vimeo.com/460357766) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Cupholder-Thumbnail.png)](https://vimeo.com/460357890)
 
 Dispenser View             | Logo Design               |  Logo Drawing
 :-------------------------:|:-------------------------:|:-------------------------:
