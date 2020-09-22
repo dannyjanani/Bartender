@@ -19,6 +19,32 @@ How many times have you gone to an event where the bartender made bad drinks? Th
 * Users can view, edit, create and delete recipes from the display.
 * Users can clean the system by choosing quick clean, full clean which flushes the system.
 
+## Gallery
+
+Completed Bartender
+:-------------------------:
+![](https://github.com/dannyjanani/home/blob/master/src/pages/ProjectPages/Media/Bartender/bartender.jpg)
+
+GUI Design               
+:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Display-Thumbnail.png)](https://vimeo.com/460357795)
+
+Frame Build                | Pump Mount               
+:-------------------------:|:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Frame-Build-Thumbnail)](https://vimeo.com/460352991) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Pump-Mount-Thumbnail)](https://vimeo.com/460353003)
+
+Pump Wiring                | Test Dispense               
+:-------------------------:|:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Pump-Wiring-Thumbnail)](https://vimeo.com/460353040) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Test-Dispense-Thumbnail)](https://vimeo.com/460353052)
+
+Design                     | Cupholder              
+:-------------------------:|:-------------------------:
+[![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Design-Thumbnail)](https://vimeo.com/460357766) | [![Watch the video](https://github.com/dannyjanani/home/blob/master/src/components/Projects%20Page/Images/Cupholder-Thumbnail)](https://vimeo.com/460357890)
+
+Dispenser View             | Logo Design               |  Logo Drawing
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/dannyjanani/home/blob/master/src/pages/ProjectPages/Media/Bartender/dispenser-view.jpg)  | ![](https://github.com/dannyjanani/home/blob/master/src/pages/ProjectPages/Media/Bartender/LogoDesign.png)  |  ![](https://github.com/dannyjanani/home/blob/master/src/pages/ProjectPages/Media/Bartender/logo-handdrawing.png)
+
 ## Materials Used
 
 * 2x [Magnetic Contact Switch](https://www.amazon.com/Gufastore-Surface-Magnetic-Security-Adhesive/dp/B07F314V3Z/ref=sr_1_5?keywords=gufastore&qid=1571533230&sr=8-5)
